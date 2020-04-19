@@ -110,6 +110,30 @@ if __name__ == '__main__':
     typo='user'
     queries=['covid19']
     main(username,pwd,typo,queries)
+    typo='user'
+    queries=['SARSCoV2']
+    main(username,pwd,typo,queries)
+    typo='user'
+    queries=['SARS-CoV-2']
+    main(username,pwd,typo,queries)
+    typo='user'
+    queries=['Coronavirus']
+    main(username,pwd,typo,queries)
+    typo='user'
+    queries=['2019-nCoV']
+    main(username,pwd,typo,queries)
+    typo='user'
+    queries=['2019 Novel Coronavirus']
+    main(username,pwd,typo,queries)
+    typo='user'
+    queries=['pandemic']
+    main(username,pwd,typo,queries)
+    typo='user'
+    queries=['social distancing']
+    main(username,pwd,typo,queries)
     typo='place'
-    queries=['covıd19panama']
+    queries=['outbreak']
+    main(username,pwd,typo,queries)
+    typo='user'
+    queries=['covid19panama']
     main(username,pwd,typo,queries)
